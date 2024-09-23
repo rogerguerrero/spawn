@@ -1,0 +1,41 @@
+body{
+	color: #333;
+	font-size: 18px;
+}
+
+h1 {
+	margin-top: 50px; 
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 60px;
+}
+
+
+h2{
+	padding-bottom: 30px;
+	font-size: 25px;
+	text-align: center;	
+	border-bottom: 2px solid #e3e3e3;
+}
+
+main {
+  width: 900px;
+  margin: auto;
+}
+
+section {
+		margin-top: 50px;
+		margin-bottom: 50px;
+		padding-left: 50px;		
+		padding-right: 50px;	
+}
+
+section h2{
+	text-align:left;
+	border-bottom: none;
+	
+}
+
+section ul li{
+	margin-bottom: 10px;
+}
